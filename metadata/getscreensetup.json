@@ -1,0 +1,45 @@
+{
+    "version": "1.0.0",
+    "versiononline": "1.0.0",
+    "versioncompare": 0,
+    "startupmessage": "Welcome to the demo",
+    "hasHome": true,
+    "hasSearch": true,
+    "hasFileEmail": true,
+    "hasLogCall": true,
+    "hasNew": true,
+    "listColumnCount": 4,
+    "defaultSearchEntity": "Company",
+    "newEntityDefault": "Company",
+    "newEntities": [
+      {
+        "name": "Company",
+        "caption": "Company",
+        "color": "orange",
+        "icon": "mdi-office-building",
+        "enabled": true
+      },
+      {
+        "name": "Contact",
+        "caption": "Contact",
+        "color": "blue",
+        "icon": "mdi-account",
+        "enabled": true
+      }
+    ],
+    "searchEntities": [
+      {
+        "name": "company",
+        "caption": "Company"
+      },
+      {
+        "name": "contact",
+        "caption": "Contacts"
+      }
+    ],
+    "lang": "en-uk",
+    "useTheme": "light",
+    "crmApp": "Your App Name",
+    "crmVersion": ""
+  }
+  

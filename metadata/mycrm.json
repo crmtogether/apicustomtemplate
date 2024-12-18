@@ -1,0 +1,87 @@
+{
+    "screenMetadata": {
+        "userdata": {
+            "title": "User Details",
+            "name": "usersofficeint",
+            "closed": false,
+            "entity": "users",
+            "errormessage": ""
+        }
+    },
+    "data": {
+        "custompages": [
+            {
+                "tabName": "sample",
+                "tabCaption": "Example Custom Page",
+                "tabAction": "demo.html",
+                "tabIcon": "mdi-cash-multiple",
+                "tabOrder": "1",
+                "component": "EntityViewX",
+                "_description": "EntityViewX will generate an iframe and display demo.html",
+                "enabled": true,
+                "selected": true,
+                "errormessage": ""
+            }
+        ],
+        "salestats": {
+            "datasets": [
+                {
+                    "data": [
+                        246,
+                        117
+                    ],
+                    "backgroundColor": [
+                        "rgba(255, 99, 132, 0.2)",
+                        "rgba(54, 162, 235, 0.2)",
+                        "rgba(255, 206, 86, 0.2)",
+                        "rgba(75, 192, 192, 0.2)",
+                        "rgba(153, 102, 255, 0.2)",
+                        "rgba(255, 159, 64, 0.2)"
+                    ],
+                    "borderColor": [
+                        "rgba(255,99,132,1)",
+                        "rgba(54, 162, 235, 1)",
+                        "rgba(255, 206, 86, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(153, 102, 255, 1)",
+                        "rgba(255, 159, 64, 1)"
+                    ],
+                    "borderWidth": 1
+                }
+            ],
+            "labels": [
+                "Presentation",
+                "Qualification"
+            ]
+        },
+        "casestats": {
+            "datasets": [
+                {
+                    "data": [
+                        1
+                    ],
+                    "backgroundColor": [
+                        "rgba(255, 99, 132, 0.2)",
+                        "rgba(54, 162, 235, 0.2)",
+                        "rgba(255, 206, 86, 0.2)",
+                        "rgba(75, 192, 192, 0.2)",
+                        "rgba(153, 102, 255, 0.2)",
+                        "rgba(255, 159, 64, 0.2)"
+                    ],
+                    "borderColor": [
+                        "rgba(255,99,132,1)",
+                        "rgba(54, 162, 235, 1)",
+                        "rgba(255, 206, 86, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(153, 102, 255, 1)",
+                        "rgba(255, 159, 64, 1)"
+                    ],
+                    "borderWidth": 1
+                }
+            ],
+            "labels": [
+                "New"
+            ]
+        }
+    }
+}

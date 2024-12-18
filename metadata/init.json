@@ -1,0 +1,11 @@
+{
+    "screenMetadata": {
+      "title": "Demo App Title",
+      "description": "This is the description of the app or some note for the user",
+      "hostappname": "HOST App Name",
+      "thisurl":"this is set in the code and here to show you how to update a value",
+      "ourlogo": "assets/logo_alt_wide.png",
+      "_description": "."
+    }
+}
+  
