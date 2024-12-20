@@ -1,7 +1,13 @@
 { 
     "token":"165343280357524", 
-    "licensetype":"Sub", 
+    "licensetype":"Sub",
+    "username":"admin",
+    "displayName":"Admin User",
+    "theURL":"https://crmtogether.com",
     "app":"Accelerator",
     "expirydate":"2029-12-30",
-    "description":"You can return any json here"
+    "description":"You can return any json here",
+    "result":"success",
+    "Message":"You can return any message here for an error",
+    "_description":"result is success if the license is valid ortherwise it is invalid"
 }
